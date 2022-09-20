@@ -1,4 +1,4 @@
-# Keycloak res
+# rescript-keycloak
 
 [ReScript](https://rescript-lang.org) bindings for [`Keycloak`](https://github.com/keycloak/keycloak-documentation/blob/main/securing_apps/topics/oidc/javascript-adapter.adoc).
 
