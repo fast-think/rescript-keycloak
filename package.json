@@ -1,5 +1,5 @@
 {
-  "name": "keycloak-res",
+  "name": "rescript-keycloak",
   "description": "Rescript bindings for keycloak-js",
   "version": "1.0.0",
   "publishConfig": {
