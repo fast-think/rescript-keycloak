@@ -1,5 +1,5 @@
 {
-  "name": "keycloak-res",
+  "name": "rescript-keycloak",
   "sources": [
     {
       "dir": "src",
